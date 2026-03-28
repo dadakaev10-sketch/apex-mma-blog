@@ -5,7 +5,7 @@ export default [
     date: "2026-01-24",
     category: "EVENT_RECAP",
     author: "James Morrison",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/ufc-324-gaethje-interim-title.jpg",
     readTime: 8,
     featured: true,
     title: {
@@ -30,7 +30,7 @@ export default [
     date: "2026-01-20",
     category: "NEWS",
     author: "Sarah Chen",
-    image: "https://images.unsplash.com/photo-1518495422937-705f630d750f?w=800&q=80",
+    image: "/images/articles/topuria-defends-featherweight-title.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -55,7 +55,7 @@ export default [
     date: "2026-01-18",
     category: "EVENT_RECAP",
     author: "Marcus Johnson",
-    image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+    image: "/images/articles/makhachev-ufc-325-defense.jpg",
     readTime: 9,
     featured: true,
     title: {
@@ -80,7 +80,7 @@ export default [
     date: "2026-01-15",
     category: "NEWS",
     author: "David Thompson",
-    image: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80",
+    image: "/images/articles/jones-heavyweight-dominance.jpg",
     readTime: 8,
     featured: false,
     title: {
@@ -105,7 +105,7 @@ export default [
     date: "2026-01-12",
     category: "ANALYSIS",
     author: "Emma Rodriguez",
-    image: "https://images.unsplash.com/photo-1526979949474-dedfdca1f27f?w=800&q=80",
+    image: "/images/articles/aspinall-heavyweight-contender.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -130,7 +130,7 @@ export default [
     date: "2026-01-10",
     category: "EVENT_RECAP",
     author: "Vincent Martinez",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/pereira-middleweight-dominance.jpg",
     readTime: 8,
     featured: false,
     title: {
@@ -155,7 +155,7 @@ export default [
     date: "2026-01-08",
     category: "NEWS",
     author: "Roberto Santos",
-    image: "https://images.unsplash.com/photo-1520373839297-1b0f7e40c28f?w=800&q=80",
+    image: "/images/articles/oliveira-lightweight-comeback.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -180,7 +180,7 @@ export default [
     date: "2026-01-05",
     category: "ANALYSIS",
     author: "Michael Chen",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/volkanovski-strategic-evolution.jpg",
     readTime: 6,
     featured: false,
     title: {
@@ -205,7 +205,7 @@ export default [
     date: "2026-02-02",
     category: "NEWS",
     author: "Lisa Wu",
-    image: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80",
+    image: "/images/articles/omally-bantamweight-rise.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -230,7 +230,7 @@ export default [
     date: "2026-02-05",
     category: "NEWS",
     author: "Patrick Brown",
-    image: "https://images.unsplash.com/photo-1518495422937-705f630d750f?w=800&q=80",
+    image: "/images/articles/mcgregor-comeback-announcement.jpg",
     readTime: 6,
     featured: true,
     title: {
@@ -255,7 +255,7 @@ export default [
     date: "2026-02-08",
     category: "ANALYSIS",
     author: "Jessica Torres",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/holloway-legacy-momentum.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -280,7 +280,7 @@ export default [
     date: "2026-02-10",
     category: "NEWS",
     author: "David Hayes",
-    image: "https://images.unsplash.com/photo-1526979949474-dedfdca1f27f?w=800&q=80",
+    image: "/images/articles/strickland-middleweight-contender.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -305,7 +305,7 @@ export default [
     date: "2026-02-12",
     category: "EVENT_RECAP",
     author: "Anthony Miles",
-    image: "https://images.unsplash.com/photo-1518495422937-705f630d750f?w=800&q=80",
+    image: "/images/articles/edwards-welterweight-comeback.jpg",
     readTime: 8,
     featured: false,
     title: {
@@ -330,7 +330,7 @@ export default [
     date: "2026-02-15",
     category: "ANALYSIS",
     author: "Oliver Stewart",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/pimblett-british-prospects.jpg",
     readTime: 6,
     featured: false,
     title: {
@@ -355,7 +355,7 @@ export default [
     date: "2026-02-18",
     category: "NEWS",
     author: "Nicolas Dubois",
-    image: "https://images.unsplash.com/photo-1526979949474-dedfdca1f27f?w=800&q=80",
+    image: "/images/articles/evloev-featherweight-rising.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -380,7 +380,7 @@ export default [
     date: "2026-02-20",
     category: "NEWS",
     author: "Miguel Lopez",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/dober-lightweight-momentum.jpg",
     readTime: 6,
     featured: false,
     title: {
@@ -405,7 +405,7 @@ export default [
     date: "2026-02-22",
     category: "ANALYSIS",
     author: "Sophie Anderson",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/adesanya-middleweight-legacy.jpg",
     readTime: 8,
     featured: false,
     title: {
@@ -430,7 +430,7 @@ export default [
     date: "2026-02-25",
     category: "NEWS",
     author: "Jean Moreau",
-    image: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80",
+    image: "/images/articles/gane-heavyweight-emergence.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -454,7 +454,7 @@ export default [
     date: "2026-02-27",
     category: "ANALYSIS",
     author: "Marcus Thompson",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/future-of-mma-2026.jpg",
     readTime: 8,
     featured: true,
     title: {
@@ -479,7 +479,7 @@ export default [
     date: "2026-02-28",
     category: "FIGHTER",
     author: "Sarah Coleman",
-    image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+    image: "/images/articles/khamzat-title-shot-momentum.jpg",
     readTime: 6,
     featured: false,
     title: {
@@ -504,7 +504,7 @@ export default [
     date: "2026-03-05",
     category: "DIVISION",
     author: "Elena Rodriguez",
-    image: "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=800&q=80",
+    image: "/images/articles/womens-featherweight-dominance-trend.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -529,7 +529,7 @@ export default [
     date: "2026-03-12",
     category: "TRAINING",
     author: "Michael Liu",
-    image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+    image: "/images/articles/mma-2026-training-evolution.jpg",
     readTime: 8,
     featured: false,
     title: {
@@ -554,7 +554,7 @@ export default [
     date: "2026-03-15",
     category: "DIVISION",
     author: "James Mitchell",
-    image: "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80",
+    image: "/images/articles/heavyweight-contention-reshaping-division.jpg",
     readTime: 6,
     featured: false,
     title: {
@@ -579,7 +579,7 @@ export default [
     date: "2026-03-18",
     category: "PSYCHOLOGY",
     author: "Dr. Patricia Edwards",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/combat-sports-mental-resilience-2026.jpg",
     readTime: 7,
     featured: false,
     title: {
@@ -604,7 +604,7 @@ export default [
     date: "2026-03-20",
     category: "ANALYSIS",
     author: "Marcus Thompson",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+    image: "/images/articles/ufc-2026-championship-predictions.jpg",
     readTime: 9,
     featured: true,
     title: {
