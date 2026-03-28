@@ -13,7 +13,7 @@ export default function HomePage() {
   const [showAll, setShowAll] = useState(false);
 
   const sortedArticles = [...articles].sort((a, b) => new Date(b.date) - new Date(a.date));
-  const featuredFighter = fighters.find(f => f.id === 'topuria') || fighters[0];
+  const featuredFighter = fighters.find(f => f.name === 'Ilia Topuria') || fighters[0];
   const displayArticles = showAll ? sortedArticles : sortedArticles.slice(0, 8);
 
   return (

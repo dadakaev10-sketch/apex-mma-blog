@@ -1,5 +1,4 @@
-export default {
-  fighters: [
+export default [
     {
       id: 1,
       name: "Ilia Topuria",
@@ -216,5 +215,4 @@ export default {
       country: "France",
       image: "https://images.unsplash.com/photo-1551958219-acbc608c6be4?w=800&q=80"
     }
-  ]
-};
+];
