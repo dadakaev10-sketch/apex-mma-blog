@@ -14,7 +14,7 @@ export default [
     stance: "Orthodox",
     reach: "80 inches",
     country: "United Kingdom",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jon_Jones_-_UFC_100_Fan_Expo_-_Mandalay_Bay_Casino%2C_Las_Vegas.jpg/400px-Jon_Jones_-_UFC_100_Fan_Expo_-_Mandalay_Bay_Casino%2C_Las_Vegas.jpg"
+    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80"
   },
   {
     id: 2,
