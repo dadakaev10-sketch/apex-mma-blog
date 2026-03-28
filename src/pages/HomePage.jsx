@@ -118,7 +118,7 @@ export default function HomePage() {
               gap: '8px',
             }}>
               <span className="red-dot" />
-              Featherweight Title Defense / Q3
+              Lightweight Champion / Undefeated
             </div>
           </div>
 

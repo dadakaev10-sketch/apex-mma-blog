@@ -220,13 +220,13 @@ export default [
     id: 18,
     name: "Khamzat Chimaev",
     nickname: "Borz",
-    record: "14-0",
+    record: "15-0",
     division: "Middleweight",
     rank: "C",
     stance: "Orthodox",
     reach: "75 inches",
     country: "Sweden",
-    image: "https://images.unsplash.com/photo-1518611505868-48a5a3a21f51?w=800&q=80"
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Khamzat_Chimaev_2022_%28cropped%29.png/400px-Khamzat_Chimaev_2022_%28cropped%29.png"
   },
   {
     id: 19,
@@ -346,7 +346,7 @@ export default [
     nickname: "Remember the Name",
     record: "24-3",
     division: "Welterweight",
-    rank: "C",
+    rank: 2,
     stance: "Orthodox",
     reach: "72 inches",
     country: "USA",
@@ -457,7 +457,7 @@ export default [
     name: "Ilia Topuria",
     nickname: "El Matador",
     record: "17-0",
-    division: "Featherweight",
+    division: "Lightweight",
     rank: "C",
     stance: "Southpaw",
     reach: "71.5 inches",
@@ -468,7 +468,7 @@ export default [
     id: 38,
     name: "Justin Gaethje",
     nickname: "The Highlight",
-    record: "25-5",
+    record: "26-5",
     division: "Lightweight",
     rank: "IC",
     stance: "Orthodox",
@@ -480,13 +480,13 @@ export default [
     id: 39,
     name: "Islam Makhachev",
     nickname: "",
-    record: "26-1",
-    division: "Lightweight",
-    rank: 1,
+    record: "28-1",
+    division: "Welterweight",
+    rank: "C",
     stance: "Orthodox",
     reach: "70.5 inches",
     country: "Russia",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Islam_Makhachev_2023.jpg/400px-Islam_Makhachev_2023.jpg"
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Islam_Makhachev_2022_UFC_belt_%28cropped%29.png/400px-Islam_Makhachev_2022_UFC_belt_%28cropped%29.png"
   },
   {
     id: 40,
@@ -1004,13 +1004,13 @@ export default [
     id: 81,
     name: "Valentina Shevchenko",
     nickname: "Bullet",
-    record: "24-5",
+    record: "26-4-1",
     division: "W. Flyweight",
     rank: "C",
     stance: "Southpaw",
     reach: "67 inches",
     country: "Kyrgyzstan",
-    image: "https://images.unsplash.com/photo-1554080221-cbf9cdb8318f?w=800&q=80"
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Valentina_Shevchenko_2020.jpg/400px-Valentina_Shevchenko_2020.jpg"
   },
   {
     id: 82,
