@@ -457,12 +457,12 @@ export default [
     name: "Ilia Topuria",
     nickname: "El Matador",
     record: "17-0",
-    division: "Lightweight",
+    division: "Featherweight",
     rank: "C",
     stance: "Southpaw",
     reach: "71.5 inches",
     country: "Spain",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ilia_Topuria.jpg/400px-Ilia_Topuria.jpg"
+    image: "/images/fighters/ilia-topuria-champ-slide.jpg"
   },
   {
     id: 38,

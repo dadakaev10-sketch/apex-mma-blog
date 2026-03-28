@@ -29,6 +29,31 @@ export default function HomePage() {
         alignItems: 'flex-end',
         background: 'linear-gradient(135deg, #0a0f0d 0%, #1a2f20 50%, #0a0f0d 100%)',
       }}>
+        {/* Fighter hero image */}
+        <div style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundImage: 'url(/images/fighters/ilia-topuria-champ-slide.jpg)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center 20%',
+          opacity: 0.6,
+          zIndex: 0,
+        }} />
+
+        {/* Dark overlay for readability */}
+        <div style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          background: 'linear-gradient(to right, rgba(10,15,13,0.85) 0%, rgba(10,15,13,0.4) 50%, rgba(10,15,13,0.7) 100%)',
+          zIndex: 0,
+        }} />
+
         {/* Background text effect */}
         <div style={{
           position: 'absolute',
@@ -40,7 +65,8 @@ export default function HomePage() {
           fontWeight: 900,
           textTransform: 'uppercase',
           color: 'transparent',
-          WebkitTextStroke: '2px rgba(45, 90, 61, 0.3)',
+          WebkitTextStroke: '2px rgba(45, 90, 61, 0.4)',
+          zIndex: 1,
           letterSpacing: '-0.05em',
           whiteSpace: 'nowrap',
           userSelect: 'none',
